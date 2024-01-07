@@ -1,0 +1,5 @@
+# MIMMIM AUTO IGNORE LIST
+
+__pycache__/
+Lib/
+Scripts/
